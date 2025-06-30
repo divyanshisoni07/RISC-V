@@ -8,7 +8,7 @@ The project was developed as part of my internship at **Solid State Physics Labo
 ## 📦 Repository Contents
 - `src/` — All Verilog source files for the processor design.
 - `tb/` — Testbenches for individual modules and the top-level processor.
--## 📄 Documentation
+- 📄 Documentation
 For a comprehensive explanation of the architecture, design approach, instruction set, and defence applications of this project, refer to:
   - `Divyanshi_RISC-V.pdf` — 📄 Detailed presentation explaining the complete design, datapath, instruction set, execution flow, and defence applications.
   - `schematic.pdf` — 🗂️ Schematic diagram of the complete top-level processor generated from Vivado.
