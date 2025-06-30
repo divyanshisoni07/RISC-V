@@ -15,25 +15,25 @@ For a comprehensive explanation of the architecture, design approach, instructio
 `README.md` — This file.
 
 ## ⚙️ Project Highlights
--✅ Complete Verilog implementation of a single-cycle RV32I processor
--✅ Modular design with clean separation of datapath and control logic
--✅ Simulation and verification using Icarus Verilog and GTKWave
--✅ Hardware schematic generated using Xilinx Vivado
--✅ Detailed presentation explaining processor architecture, execution flow, and defence relevance
+- ✅ Complete Verilog implementation of a single-cycle RV32I processor
+- ✅ Modular design with clean separation of datapath and control logic
+- ✅ Simulation and verification using Icarus Verilog and GTKWave
+- ✅ Hardware schematic generated using Xilinx Vivado
+- ✅ Detailed presentation explaining processor architecture, execution flow, and defence relevance
 
 ## 📊 Features
--Implements all 47 RV32I instructions:
--Arithmetic, Logic, Load/Store, Branch, Jump, Immediate instructions
--Supports:
-  -Instruction Memory
-  -Data Memory
-  -32 General-Purpose Registers
-  -Immediate Generator
-  -ALU with Control Logic
--Suitable for academic and research purposes
+- Implements all 47 RV32I instructions:
+- Arithmetic, Logic, Load/Store, Branch, Jump, Immediate instructions
+- Supports:
+  - Instruction Memory
+  - Data Memory
+  - 32 General-Purpose Registers
+  - Immediate Generator
+  - ALU with Control Logic
+- Suitable for academic and research purposes
 
 ## 🛠 Tools Used
--Verilog HDL
--Icarus Verilog — Simulation
--GTKWave — Waveform visualization
--Xilinx Vivado — RTL analysis, Schematic generation
+- Verilog HDL
+- Icarus Verilog — Simulation
+- GTKWave — Waveform visualization
+- Xilinx Vivado — RTL analysis, Schematic generation
